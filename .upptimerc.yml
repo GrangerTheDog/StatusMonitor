@@ -9,6 +9,8 @@ sites:
     url: https://panel.granger.dog
   - name: GrangerHosting (Wings)
     url: https://node1.granger.dog:8080/
+    expectedStatusCodes:
+      - 401
   - name: FurryFusion MC
     url: mc.furryfusion.nl
     port: 25514
