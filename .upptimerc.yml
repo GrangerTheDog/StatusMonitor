@@ -7,7 +7,7 @@ sites:
     url: https://granger.dog
   - name: GrangerHosting (Pelican Panel)
     url: https://panel.granger.dog
-  -name: GrangerHosting (Wings)
+  - name: GrangerHosting (Wings)
     url: https://node1.granger.dog:8080/
   - name: FurryFusion MC
     url: mc.furryfusion.nl
