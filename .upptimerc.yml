@@ -7,17 +7,20 @@ sites:
     url: https://granger.dog
   - name: GrangerHosting (Pelican Panel)
     url: https://panel.granger.dog
+  -name: GrangerHosting (Wings)
+    url: https://node1.granger.dog:8080/
   - name: FurryFusion MC
     url: mc.furryfusion.nl
     port: 25514
     check: "tcp-ping"
+    icon: https://granger.dog/ffmc.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.granger.dog
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://granger.dog/images/granger.webp
   name: "Granger's StatusMonitor"
   introTitle: "**Granger StatusMonitor** keeps watch over all services offered by Granger"
   introMessage: This dog does not know what he is doing!
