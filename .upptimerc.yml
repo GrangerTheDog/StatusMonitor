@@ -5,9 +5,9 @@ repo: StatusMonitor # The name of this repository
 sites:
   - name: Granger.dog Main page
     url: https://granger.dog
-  - name: GrangerHosting (Pelican Panel)
+  - name: GrangerHosting (Panel)
     url: https://panel.granger.dog
-  - name: GrangerHosting (Wings)
+  - name: GrangerHosting (Node 1)
     url: https://node1.granger.dog:8080/
     expectedStatusCodes:
       - 401
