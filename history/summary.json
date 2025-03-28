@@ -4,19 +4,19 @@
     "url": "https://granger.dog",
     "icon": "https://icons.duckduckgo.com/ip3/granger.dog.ico",
     "slug": "granger-dog-main-page",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 715,
-    "timeDay": 482,
-    "timeWeek": 663,
-    "timeMonth": 715,
-    "timeYear": 715,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 714,
+    "timeDay": 590,
+    "timeWeek": 667,
+    "timeMonth": 714,
+    "timeYear": 714,
     "dailyMinutesDown": {
-      "2025-03-28": 2
+      "2025-03-28": 76
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://panel.granger.dog",
     "icon": "https://icons.duckduckgo.com/ip3/panel.granger.dog.ico",
     "slug": "granger-hosting-panel",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1051,
-    "timeDay": 1234,
-    "timeWeek": 1094,
-    "timeMonth": 1051,
-    "timeYear": 1051,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 1056,
+    "timeDay": 1180,
+    "timeWeek": 1098,
+    "timeMonth": 1056,
+    "timeYear": 1056,
     "dailyMinutesDown": {
-      "2025-03-28": 2
+      "2025-03-28": 76
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://node1.granger.dog:8080/",
     "icon": "https://icons.duckduckgo.com/ip3/node1.granger.dog.ico",
     "slug": "granger-hosting-node-1",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 702,
-    "timeDay": 742,
-    "timeWeek": 684,
-    "timeMonth": 702,
-    "timeYear": 702,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 694,
+    "timeDay": 655,
+    "timeWeek": 669,
+    "timeMonth": 694,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2025-03-28": 1
+      "2025-03-28": 75
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "mc.furryfusion.nl",
     "icon": "https://granger.dog/ffmc.png",
     "slug": "furry-fusion-mc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 118,
-    "timeWeek": 134,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 145,
+    "timeDay": 145,
+    "timeWeek": 139,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-03-28": 0
+      "2025-03-28": 74
     }
   }
 ]
