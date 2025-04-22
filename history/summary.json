@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.87%",
-    "time": 721,
-    "timeDay": 947,
-    "timeWeek": 825,
-    "timeMonth": 713,
-    "timeYear": 721,
+    "time": 732,
+    "timeDay": 1197,
+    "timeWeek": 857,
+    "timeMonth": 727,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2025-03-28": 76
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.granger.dog.ico",
     "slug": "granger-hosting-panel",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.86%",
-    "time": 1096,
-    "timeDay": 1410,
-    "timeWeek": 1235,
-    "timeMonth": 1118,
-    "timeYear": 1096,
+    "uptimeYear": "99.87%",
+    "time": 1103,
+    "timeDay": 1383,
+    "timeWeek": 1238,
+    "timeMonth": 1122,
+    "timeYear": 1103,
     "dailyMinutesDown": {
       "2025-03-28": 76
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.87%",
-    "time": 655,
-    "timeDay": 852,
-    "timeWeek": 760,
-    "timeMonth": 638,
-    "timeYear": 655,
+    "time": 653,
+    "timeDay": 577,
+    "timeWeek": 707,
+    "timeMonth": 636,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2025-03-28": 75
     }
@@ -73,7 +73,7 @@
     "time": 142,
     "timeDay": 148,
     "timeWeek": 149,
-    "timeMonth": 138,
+    "timeMonth": 139,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2025-04-21": 28,
