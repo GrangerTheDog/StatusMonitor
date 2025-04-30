@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 742,
-    "timeDay": 1076,
-    "timeWeek": 813,
-    "timeMonth": 765,
-    "timeYear": 742,
+    "time": 741,
+    "timeDay": 678,
+    "timeWeek": 837,
+    "timeMonth": 759,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2025-03-28": 76
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1114,
-    "timeDay": 1573,
-    "timeWeek": 1182,
-    "timeMonth": 1152,
-    "timeYear": 1114,
+    "time": 1115,
+    "timeDay": 1174,
+    "timeWeek": 1228,
+    "timeMonth": 1154,
+    "timeYear": 1115,
     "dailyMinutesDown": {
       "2025-03-28": 76
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 667,
-    "timeDay": 1038,
-    "timeWeek": 753,
-    "timeMonth": 658,
+    "timeDay": 674,
+    "timeWeek": 732,
+    "timeMonth": 656,
     "timeYear": 667,
     "dailyMinutesDown": {
       "2025-03-28": 75
@@ -65,15 +65,15 @@
     "icon": "https://granger.dog/ffmc.png",
     "slug": "furry-fusion-mc",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 142,
-    "timeDay": 178,
-    "timeWeek": 142,
-    "timeMonth": 140,
+    "timeDay": 116,
+    "timeWeek": 141,
+    "timeMonth": 139,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2025-04-26": 17,
