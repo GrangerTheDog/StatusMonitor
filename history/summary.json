@@ -64,7 +64,7 @@
     "url": "mc.furryfusion.nl",
     "icon": "https://granger.dog/ffmc.png",
     "slug": "furry-fusion-mc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -76,6 +76,7 @@
     "timeMonth": 133,
     "timeYear": 139,
     "dailyMinutesDown": {
+      "2025-05-29": 0,
       "2025-04-26": 17,
       "2025-04-21": 28,
       "2025-03-31": 29,
