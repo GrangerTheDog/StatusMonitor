@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://granger.dog/images/granger.webp
   name: "Granger's StatusMonitor"
   introTitle: "**Granger StatusMonitor** keeps watch over all services offered by Granger"
-  introMessage: This dog does not know what he is doing!
+  introMessage: This dog just keeps borking around!
   navbar:
     - title: Status
       href: /
