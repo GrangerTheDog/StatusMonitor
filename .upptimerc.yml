@@ -7,8 +7,10 @@ sites:
     url: https://granger.dog
   - name: GrangerCloud
     url: https://cloud.granger.dog
-  - name: Granger - NginxUI
-    url: https://nginxui.granger.dog
+    custom-slug: granger-cloud
+  - name: NginxUI
+    url: $NGINXUIURL
+    custom-slug: granger-nginx-ui
  # - name: GrangerHosting (Node 1)
  #   url: https://node1.granger.dog:8080/
  #   expectedStatusCodes:
