@@ -1,7 +1,7 @@
 url: https://cloud.granger.dog
-status: down
-code: 503
-responseTime: 1825
-lastUpdated: 2025-06-11T06:46:47.918Z
+status: up
+code: 200
+responseTime: 1433
+lastUpdated: 2025-06-11T06:59:18.669Z
 startTime: 2025-06-01T22:45:29.446Z
 generator: Upptime <https://github.com/upptime/upptime>
