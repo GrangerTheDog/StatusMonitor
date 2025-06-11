@@ -26,18 +26,20 @@
     "url": "https://cloud.granger.dog",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.granger.dog.ico",
     "slug": "granger-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1172,
-    "timeDay": 1007,
-    "timeWeek": 1224,
-    "timeMonth": 1172,
-    "timeYear": 1172,
-    "dailyMinutesDown": {}
+    "time": 1215,
+    "timeDay": 1416,
+    "timeWeek": 1300,
+    "timeMonth": 1215,
+    "timeYear": 1215,
+    "dailyMinutesDown": {
+      "2025-06-11": 0
+    }
   },
   {
     "name": "NginxUI",
