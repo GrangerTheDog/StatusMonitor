@@ -4,18 +4,19 @@
     "url": "https://granger.dog",
     "icon": "https://icons.duckduckgo.com/ip3/granger.dog.ico",
     "slug": "granger-dog-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
-    "time": 869,
-    "timeDay": 516,
-    "timeWeek": 4353,
-    "timeMonth": 1575,
-    "timeYear": 869,
+    "time": 868,
+    "timeDay": 603,
+    "timeWeek": 3895,
+    "timeMonth": 1547,
+    "timeYear": 868,
     "dailyMinutesDown": {
+      "2025-08-30": 0,
       "2025-06-01": 1065,
       "2025-05-31": 214,
       "2025-03-28": 76
@@ -45,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginxui.granger.dog.ico",
     "slug": "nginx-ui",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 814,
     "timeDay": 417,
     "timeWeek": 1626,
     "timeMonth": 990,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-08-30": 0
+      "2025-08-30": 13
     }
   }
 ]
